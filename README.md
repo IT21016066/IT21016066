@@ -82,8 +82,9 @@ src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46d
 </p>
 <hr>
 
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT21016066&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="IT21016066"/></p>
-
+<a href="https://github.com/IT21016066/github-readme-stats"><img alt="Manula's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21016066&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<hr>
+<br>
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=IT21016066&show_icons=true&locale=en&theme=tokyonight" alt="IT21016066" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IT21016066&&theme=tokyonight" alt="IT21016066" /></p>
