@@ -1,8 +1,8 @@
-![image](https://github.com/IT21016066/IT21016066/assets/87337010/c2673bc6-69ed-4b9f-8570-7c14f8f559b1)<h1 align="center">Hi 👋, I'm Minuli Samaraweera</h1>
+<h1 align="center">Hi 👋, I'm Minuli Samaraweera</h1>
 
-<div align="center"> <img src="https://dagshub.com/blog/content/images/2022/09/sad_octocat_copy.png"> </div>
+<div align="center"> <img src="https://miro.medium.com/v2/resize:fit:785/1*j53G7KYBDUQsm8P1PasxkQ.png"> </div>
 
-<h3 align="center">A passionate Trainee Data Engineer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21016066&label=Profile%20views&color=0e75b6&style=flat" alt="it21016066" /> </p>
 
