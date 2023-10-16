@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Minuli Samaraweera</h1>
 
-<div align="center"> <img src="https://miro.medium.com/v2/resize:fit:785/1*j53G7KYBDUQsm8P1PasxkQ.png"> </div>
+<div align="center"> <img src="https://camo.githubusercontent.com/12264254eb03d30f8299775974c17e29ee0635d82a2cc08accd9041bff49f819/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f62616e6e65722e706e67"> </div>
 
 <h3 align="center">A passionate Data Engineer</h3>
 
