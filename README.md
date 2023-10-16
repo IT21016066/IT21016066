@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://camo.githubusercontent.com/12264254eb03d30f8299775974c17e29ee0635d82a2cc08accd9041bff49f819/68747470733a2f2f617274757273736d69726e6f76732e6769746875622e696f2f6769746875622d70726f66696c652d726561646d652d67656e657261746f722f696d616765732f62616e6e65722e706e67"> </div>
 
-<h3 align="center">A passionate Data Engineer and I’m a third year undergraduate at Sri Lanka Institute of Information Technology</h3>
+<h3 align="center">A passionate Data Engineer, I work in the corporate IT sector</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21016066&label=Profile%20views&color=0e75b6&style=flat" alt="it21016066" /> </p>
